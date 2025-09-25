@@ -1,0 +1,72 @@
+{
+  "userInfo": [
+    {
+      "id": "1",
+      "firstName": "Adonis",
+      "lastName": "Bigirimana",
+      "email": "adonis@example.com",
+      "age": 25,
+      "day": "1"
+    },
+    {
+      "id": "bf4f",
+      "firstName": "Adonis Pierre 1",
+      "lastName": "Bigirimana2",
+      "email": "bigirimanaadonis@gmail.com",
+      "age": "20",
+      "day": "2"
+    },
+    {
+      "id": "8076",
+      "firstName": "Adonis",
+      "lastName": "Pierre",
+      "email": "Adonisbig@gmail.com",
+      "age": "20",
+      "day": "4"
+    },
+    {
+      "id": "e839",
+      "firstName": "Adonis",
+      "lastName": "B",
+      "email": "gujg",
+      "age": "7",
+      "day": "6"
+    },
+    {
+      "id": "0e28",
+      "firstName": "Adonis",
+      "lastName": "fggdu",
+      "email": "Dodo@gmail.com",
+      "age": "23",
+      "day": "3"
+    }
+  ],
+  "logs": [
+    {
+      "id": "1",
+      "day": "1",
+      "water": 8,
+      "meals": 3,
+      "sleep": 7
+    },
+    {
+      "id": "467a",
+      "day": "2",
+      "water": "5",
+      "meals": "4",
+      "sleep": "9"
+    }
+  ],
+  "feedback": [
+    {
+      "id": "1",
+      "message": "Great app so far!",
+      "date": "2025-09-25T06:00:00.000Z"
+    },
+    {
+      "id": "5c82",
+      "message": "love this app so fare its working properly",
+      "date": "2025-09-25T02:21:23.734Z"
+    }
+  ]
+}
